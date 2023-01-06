@@ -38,7 +38,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title{
@@ -94,9 +94,9 @@ section{
 
 }
 .section-title{
-font-weight: 700;
-font-size: 35px;
-margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 50px;
 }
 .section-description{
     color: #757575;
